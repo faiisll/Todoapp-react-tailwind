@@ -1,3 +1,6 @@
+# Todo App with React and Tailwind
+This app is just a study case for me to learn about React and use Tailwind to styling.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
