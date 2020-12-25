@@ -6,7 +6,10 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <div className="w-full h-screen pt-4 dark:bg-gray-900">
+      <App />
+    </div>
+    
   </React.StrictMode>,
   document.getElementById('root')
 );
