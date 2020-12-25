@@ -1,5 +1,5 @@
 # Todo App with React and Tailwind
-This app is just a study case for me to learn about React and use Tailwind to styling.
+This just simple todo app and is just a study case for me to learn about React and use Tailwind to styling this app.
 
 # Getting Started with Create React App
 
