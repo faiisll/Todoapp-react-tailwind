@@ -1,3 +1,7 @@
+# Todo App with React and Tailwind
+This just simple todo app and is just a study case for me to learn about React and use Tailwind to styling this app.
+https://todoapp-react-tailwind.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
