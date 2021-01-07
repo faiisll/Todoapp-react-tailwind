@@ -61,11 +61,17 @@ const Todos = ({todos, checkTodo, uncheckTodo, deleteTodo}) =>{
     
 
     return(
-        <div className="w-full grid grid-cols-1 gap-2 mt-5">
+        <div className="w-full grid grid-cols-1 gap-2 mt-5 max-h-screen">
             <h1 className="mt-2 mb-1 text-gray-600 dark:text-white">Task List</h1>
-            {jsx}
+            <div className="w-full overflow-y-auto max-h-40 grid grid-cols-1 gap-2">
+                {jsx}
+            </div>
+            
             <h1 className="mt-3 mb-1 text-green-600 font-semibold dark:text-green-400">Task Done</h1>
-            {jsx2}
+            <div className="w-full overflow-y-auto max-h-40 grid grid-cols-1 gap-2">
+                {jsx2}
+            </div>
+            
         </div>
     )
 }
